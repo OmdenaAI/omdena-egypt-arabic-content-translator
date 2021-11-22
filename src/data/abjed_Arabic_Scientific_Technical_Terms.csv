@@ -1,0 +1,99 @@
+,english,arabic
+0,Basic Probability,المبادئ الأساسية للإحتمالات
+1,Machine Learning,التعلّم الآلي
+2,Machine Translation,الترجمة الآلية
+3,Neural networks,الشبكات العصبية
+4,Attention mechanism,آلية الانتباه
+5,Attention,انتباه
+6,Neural Machine Translation,الترجمة الآلية باستخدام الشبكات العصبية
+7,Notebook,الدفتر
+8,Sequence to sequence model,نموذج تسلسل إلى تسلسل
+9,model,نموذج
+10,toy example,مثال بسيط
+11,Plot,الرسم البياني
+12,Input sentence,الجملة المدخلة
+13,Downloading,تنزيل
+14,Language Pairs,أزواج لغوية
+15,following format,الشكل التالي
+16,For convenience,لتبسيط الأمر
+17,word index and reverse word index,فهرس الكلمات وفهرس الكلمات العكسي
+18,Encoder-Decoder model,نموذج التشفير - فك التشفير
+19,Decoder,نموذج فك التشفير
+20,Encoder,نموذج التشفير
+21,APIs,واجهات برمجة التطبيقات
+22,attention equations,معادلات الانتباه
+23,input word,كلمة مدخلة
+24,weight,وزن
+25,predict,تنبؤ
+26,equations,معدلات
+27,research paper,ورقة بحث
+28,output,ناتج
+29,input,المدخل
+30,hidden state,الحالة الخفية
+31,decide on notation,نحدد الرموز
+32,pseudo-code,الشبه شفرة
+33,by default,بدون تحديد صريح
+34,axis,المحور
+35,embedding layer,طبقة التضمين
+36,vector,المتجه
+37,vectors,المتجهات
+38,optimizer,خوارزميّة تحسين
+39,loss function,دالّة خسارة
+40,save,حفظ
+41,checkpoints,نقاط الفحص
+42,objects,الكائنات
+43,training,التدريب
+44,Predictions,التنبؤات
+45,teacher forcing,إجبار المعلم
+46,gradients,الميول
+47,backpropagation,الانتشار العكسي
+48,evaluation function,وظيفة التقييم
+49,training loop,حلقة التدريب
+50,attention weights,أوزان الانتباه
+51,batch,دُفعة
+52,classification,تصنيف
+53,high level,عالية المستوى
+54,arrays,صفائف
+55,training set,بيانات التّدريب
+56,test set,مجموعة الاختبار
+57,integer,عدد طبيعيّ
+58,memory,الذّاكرة
+59,labels,التسميات
+60,variable,المتغيّر
+61,parameters,معلمات
+62,representations,التمثيلات
+63,metrics,مقاييس
+64,overfitting,الإفراط في تعلّم كل ما في البيانات
+65,probabilities,احتمالات
+66,list,قائمة
+67,greyscale images,صور ذات تدرّج رمادي
+68,data augmentation,تكثير البيانات
+69,hardware acceleration,تسريع الجهاز
+70,eager execution,التنفيذ المتلهّف
+71,Recurrent Neural Networks,الشبكات العصبّية المتكرّرة
+72,Function (Programming),وظيفة
+73,Transformer model,نموذج المحولات
+74,language understanding,فهم اللغات
+75,self-attention,الانتباه الذاتي
+76,Multi-head attention,انتباه متعدد الرؤوس
+77,scaled dot product,الجداء النقطي المعير
+78,dimensions,الأبعاد
+79,time-series,السلاسل الزمنية
+80,tokenizer,مقسم جُملٍ
+81,regularization,الضبط
+82,graph,المخطط
+83,tensor,موتر
+84,sparse,متناثر أو قليل الكثافة
+85,sparse model,نموذج متناثر أو نموذج قليل الكثافة
+86,sparse matrix,مصفوفة متناثرة أو مصفوفة قليلة الكثافة
+87,coefficient,معامل
+88,regularized model,النموذج المضبوط
+89,formulas,معادلات
+90,Dropout,إسقاط عشوائي
+91,optimization,عمليّة التحسين
+92,Feature,خاصيّة أو ميزة
+93,class,فئة
+94,callback,وظيفة قابلة للإستدعاء
+95,log-scale,مقياس لوغاريتمي
+96,masking,تقنية الححب
+97,mask,المتجه الحاجب
